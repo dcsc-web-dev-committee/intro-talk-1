@@ -3,6 +3,12 @@ body {
 	background-color: #171325;
 	border-top: solid 3px #53d4e5;
 	margin: 0;
+
+	font-family: Montserrat, sans-serif;
+}
+
+i {
+	color: #fff;
 }
 
 h1, h2 {
@@ -15,8 +21,6 @@ ul {
 
 li {
 	list-style: none;
-	text-indent: -40px;
-
 }
 
 a {
