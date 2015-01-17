@@ -22,6 +22,7 @@ li {
 	height: auto;
 	margin: 0 auto;
 	background-color: pink;
+	position: relative;	
 
 }
 
@@ -29,6 +30,7 @@ li {
 	height: auto;
 	width: 250px;
 	float: left;
+	display: inline-block;
 
 }
 
@@ -38,19 +40,19 @@ li {
 	border-radius: 50px;
 }
 
-}
 
 #work-bin {
 	height: auto;
 	width: 750px;
 	margin: 0;
 	float: right;
+	display: inline-block;
 }
 
 #work-bin img {
 	height: 300px;
 	width: 600px;
 	margin: 20px auto;
-
+	float: right;
 
 }
