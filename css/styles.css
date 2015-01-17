@@ -1,0 +1,56 @@
+
+body {
+	background-color: #453D54;
+	border-top: solid 3px #53d4e5;
+	margin: 0;
+}
+
+h1 {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+#container {
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+	background-color: pink;
+
+}
+
+#info-bin {
+	height: auto;
+	width: 250px;
+	float: left;
+
+}
+
+#info-bin img {
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
+}
+
+}
+
+#work-bin {
+	height: auto;
+	width: 750px;
+	margin: 0;
+	float: right;
+}
+
+#work-bin img {
+	height: 300px;
+	width: 600px;
+	margin: 20px auto;
+
+
+}
