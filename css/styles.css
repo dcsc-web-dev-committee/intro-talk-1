@@ -5,8 +5,8 @@ body {
 	margin: 0;
 }
 
-h1, h2 {
-	color: #fff;
+h1, h3 {
+	color: #E0DFE2;
 }
 
 ul {
@@ -20,12 +20,13 @@ li {
 }
 
 a {
-	color: turquoise;
+	color: #53d4e5;
 	text-decoration: none;
 }
 
 #container {
-	width: 1000px;
+	/*width: 1000px;*/
+	width: 900px;
 	height: auto;
 	margin: 0 auto;
 	background-color: pink;
@@ -35,33 +36,35 @@ a {
 
 #info-bin {
 	height: auto;
-	width: 250px;
+	/*width: 250px;*/
+	width: 200px;
 	float: left;
 	display: inline-block;
 	padding: 20px;
 	margin-top: 50px;
-	border-right: solid 1px #fff;
+	border-right: solid 1px #E0DFE2;
 
 
 }
 
 #info-bin img {
-	height: 100px;
-	width: 100px;
+	height: 80px;
+	width: 80px;
 	border-radius: 50px;
-	margin-left: -150px;
+	margin-left: -120px;
 	margin-top: 20px;
 	position: absolute;
-	border: solid 1px  #fff;
+	border: solid 1px  #E0DFE2;
 }
 
 
 #work-bin {
 	height: auto;
-	width: 700px;
+	width: 600px;
 	margin: 0;
 	float: right;
 	display: inline-block;
+	margin-top: 30px;
 }
 
 #work-bin img {
